@@ -1,0 +1,5 @@
+{
+  "name": "AI Legal Contract Analyzer",
+  "description": "An AI-powered tool to upload legal contracts, extract key clauses, assess risk levels (Low, Medium, High), and provide an overall risk score with detailed explanations.",
+  "requestFramePermissions": []
+}

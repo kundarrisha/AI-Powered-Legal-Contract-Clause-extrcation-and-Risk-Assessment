@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+scikit-learn
+pandas
+numpy
+flask
+pdfplumber
+reportlab
